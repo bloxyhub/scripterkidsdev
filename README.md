@@ -1,32 +1,30 @@
-[![Beta](https://cdn.discordapp.com/attachments/919566811752722433/958358647795249233/Scripter_Kids.png)](https://github.com/scripterkidsdev)
+<h2>About Me</h2>
 
+```js
+class Jahky {
+    constructor(options) {
+        this.name = "Mert",
+        this.sex = "man",
+        this.length = "182",
+        this.type = "human",
+        this.job = "student",
+        this.weight = "61",
+        this.age = "17"
+    };
+}
 
-<div align="center">
-<h3>Languages and Tools</h3>
-<a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
+export default Jahky
+```
+# My Github Stats
+                                                  
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=jahkyxd&show_icons=true&hide_title=true&theme=merko">
+<img width="11.5%" align="left" src="https://komarev.com/ghpvc/?username=jahkyxd&color=dc143c">
 
-<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-111111.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white>">
-<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
-</div>
+# My Social Media 
 
+Discord Accounts: [Jahky.#1000](https://discord.com/users/618444525727383592) | [my friends server](https://discord.gg/borangkdn) | [Youtube](https://www.youtube.com/channel/UCSbBwtkGguHo_4LVD0QMUyA) | [My Bot](https://discord.com/api/oauth2/authorize?client_id=799629195155210270&permissions=8&scope=applications.commands%20bot)
 
-<div align="center">
-<h3>Github Stats</h3>
-  <div><img src="https://komarev.com/ghpvc/?username=scripterkidsdev&&label=PROFILE+VIEWS&color=grey"/></div>
-  <img src="https://github-readme-stats.vercel.app/api?username=scripterkidsdev&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scripterkidsdev&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
-</a>
+# Discord Activity
 
-<div align="center">
-<h3>Discord Activity</h3>
-   <a href="https://discord.com/users/853165212135587870" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/1030169265464152124?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...">
-     <a href="https://discord.com/users/964521958341500968" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/964521958341500968?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...">
-   </a>
-</div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/618444525727383592?hideDiscrim=false)](https://discord.com/users/618444525727383592)
 <a href="" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
