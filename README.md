@@ -22,9 +22,9 @@ export default Jahky
 
 # My Social Media 
 
-Discord Accounts: [Jahky.#1000](https://discord.com/users/618444525727383592) | [my friends server](https://discord.gg/borangkdn) | [Youtube](https://www.youtube.com/channel/UCSbBwtkGguHo_4LVD0QMUyA) | [My Bot](https://discord.com/api/oauth2/authorize?client_id=799629195155210270&permissions=8&scope=applications.commands%20bot)
+Discord Accounts: [orduck#1747](https://discord.com/users/1088442497233080371) | [my friends server](https://discord.gg/DrYE6vMCbE) |
 
 # Discord Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/618444525727383592?hideDiscrim=false)](https://discord.com/users/618444525727383592)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1088442497233080371?hideDiscrim=false)](https://discord.com/users/1088442497233080371)
 <a href="" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
