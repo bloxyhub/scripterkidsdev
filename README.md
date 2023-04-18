@@ -1,15 +1,15 @@
 <h2>About Me</h2>
 
 ```js
-class Jahky {
+class bloxy {
     constructor(options) {
-        this.name = "Mert",
+        this.name = "Mustafa",
         this.sex = "man",
-        this.length = "182",
+        this.length = "1.72",
         this.type = "human",
         this.job = "student",
-        this.weight = "61",
-        this.age = "17"
+        this.weight = "55",
+        this.age = "15"
     };
 }
 
