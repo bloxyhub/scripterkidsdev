@@ -13,7 +13,7 @@ class bloxy {
     };
 }
 
-export default Jahky
+export default bloxy
 ```
 # My Github Stats
                                                   
