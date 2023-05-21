@@ -5,11 +5,11 @@ class bloxy {
     constructor(options) {
         this.name = "Mustafa",
         this.sex = "man",
-        this.length = "1.72",
+        this.length = "1.62",
         this.type = "human",
         this.job = "student",
         this.weight = "55",
-        this.age = "15"
+        this.age = "13"
     };
 }
 
