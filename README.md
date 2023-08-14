@@ -26,5 +26,4 @@ Discord Accounts: [orduck#1747](https://discord.com/users/1088442497233080371) |
 
 # Discord Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1088442497233080371?hideDiscrim=false)](https://discord.com/users/1088442497233080371)
-<a href="" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1088442497233080371?hideDiscrim=false)](https://discord.com/users/1088442497233080371)<a href="" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
