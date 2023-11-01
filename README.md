@@ -5,7 +5,7 @@ class bloxy {
     constructor(options) {
         this.name = "Mustafa",
         this.sex = "man",
-        this.length = "1.62",
+        this.length = "1.56",
         this.type = "human",
         this.job = "student",
         this.weight = "55",
